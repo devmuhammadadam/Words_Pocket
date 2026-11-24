@@ -9,7 +9,7 @@
 
 ### Demo:
 
-https: https://muhammad-abdusalam.github.io/Words_Pocket/
+https: https://devmuhammadadam.github.io/Words_Pocket/
 
 ### Built with ⚒️
 
@@ -19,7 +19,7 @@ https: https://muhammad-abdusalam.github.io/Words_Pocket/
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam/)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam/)
 
 <hr>
 
